@@ -1,3 +1,9 @@
+progeny (1.0.1) unstable; urgency=low
+
+  * Fist full commit
+
+ -- Vladimir Stavrinov <vstavrinov@gmail.com>  Mon, 01 Jul 2013 15:31:20 +0400
+
 progeny (1.0.0) unstable; urgency=low
 
   * Initial Release.
