@@ -13,5 +13,6 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Returns process's progeny in all generations recursively
  calculated from PID as parent. It is simple as possible without any options.
- And its output could be used to kill processes.
+ And its output could be used to kill processes, change priority or someting
+ else.
 
