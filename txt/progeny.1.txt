@@ -1,0 +1,15 @@
+NAME
+progeny - Returns process's progeny in all generations recursively.
+
+SYNOPSIS
+progeny PID
+
+DESCRIPTION
+This small utility takes Process ID (PID) on command line as parent and returns all its progeny in all generations recursively.
+
+OPTIONS
+	No options other than single PID are available now.
+
+AUTHORS
+Vladimir Stavrinov <vstavrinov@gmail.com>
+

@@ -1,0 +1,16 @@
+Source: progeny
+Section: admin
+Priority: extra
+Maintainer: Vladimir Stavrinov <vs@mana.pointmmo.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://sourceforge.net/projects/process-progeny/
+#Vcs-Git: git://git.debian.org/collab-maint/progeny.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/progeny.git;a=summary
+
+Package: progeny
+Architecture: all
+Depends: ${misc:Depends}
+Description: Returns process's progeny in all generations recursively
+ calculated from PID as parent.
+
