@@ -1,7 +1,7 @@
 Source: progeny
 Section: admin
 Priority: extra
-Maintainer: Vladimir Stavrinov <vs@mana.pointmmo.com>
+Maintainer: Vladimir Stavrinov <vstavrinov@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 Homepage: https://sourceforge.net/projects/process-progeny/
