@@ -1,3 +1,9 @@
+progeny (1.0.4) unstable; urgency=low
+
+  * Extend description.
+
+ -- Vladimir Stavrinov <vstavrinov@gmail.com>  Mon, 01 Jul 2013 16:10:13 +0400
+
 progeny (1.0.3) unstable; urgency=low
 
   * Fix Email agin in one more place.
