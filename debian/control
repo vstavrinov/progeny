@@ -4,9 +4,9 @@ Priority: extra
 Maintainer: Vladimir Stavrinov <vstavrinov@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
-Homepage: https://sourceforge.net/projects/process-progeny/
-#Vcs-Git: git://git.debian.org/collab-maint/progeny.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/progeny.git;a=summary
+Homepage: https://github.com/vstavrinov/process-progeny
+Vcs-Git: git://github.com/vstavrinov/process-progeny.git
+Vcs-Browser: https://github.com/vstavrinov/process-progeny
 
 Package: progeny
 Architecture: all
