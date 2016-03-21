@@ -4,6 +4,3 @@ The Debian Package progeny
 This small utility takes Process ID (PID) on command line as parent and returns
 all its progeny in all generations recursively.
 
-Comments regarding the Package
-
- -- Vladimir Stavrinov <vs@mana.pointmmo.com>  Thu, 27 Jun 2013 13:39:45 +0400
